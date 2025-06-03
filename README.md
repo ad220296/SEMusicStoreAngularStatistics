@@ -18,4 +18,4 @@
 ## Ziel
 
 Das Projekt demonstriert, wie man mit .NET und Angular eine vollständige Anwendung mit Datenbank, REST-API und Web-Frontend für Musikstatistiken umsetzt. Es eignet sich als Lern- und Beispielprojekt für Fullstack-Entwicklung.
-![Vorschau der Website](webside.png)
+![Beschreibung des Bildes](https://github.com/ad220296/SEMusicStoreAngularStatistics/raw/main/Webside.png)
